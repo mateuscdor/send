@@ -1,0 +1,142 @@
+[
+  {
+    "name": [
+      "menu"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660738388947
+  },
+  {
+    "name": [
+      "menu"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660738803956
+  },
+  {
+    "name": "ping",
+    "success": 4,
+    "failed": 0,
+    "lastUpdate": 1660740813343
+  },
+  {
+    "name": "exec",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660738824422
+  },
+  {
+    "name": [
+      "menu"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660738852438
+  },
+  {
+    "name": "owner",
+    "success": 3,
+    "failed": 0,
+    "lastUpdate": 1660740789636
+  },
+  {
+    "name": "dashboard",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660738884568
+  },
+  {
+    "name": "mode",
+    "success": 3,
+    "failed": 0,
+    "lastUpdate": 1660740693900
+  },
+  {
+    "name": [
+      "menu"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660738953659
+  },
+  {
+    "name": [
+      "menu"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660738956747
+  },
+  {
+    "name": [
+      "menu"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660738966381
+  },
+  {
+    "name": "ttp",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660738982169
+  },
+  {
+    "name": "listjadibot",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660739013376
+  },
+  {
+    "name": "eval",
+    "success": 2,
+    "failed": 0,
+    "lastUpdate": 1660739078568
+  },
+  {
+    "name": "jadibot",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660739036895
+  },
+  {
+    "name": [
+      "menu"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660740582407
+  },
+  {
+    "name": [
+      "menu"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660740728347
+  },
+  {
+    "name": [
+      "help <command>"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660740859339
+  },
+  {
+    "name": [
+      "help <command>"
+    ],
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660740872517
+  },
+  {
+    "name": "sticker",
+    "success": 1,
+    "failed": 0,
+    "lastUpdate": 1660741033671
+  }
+]

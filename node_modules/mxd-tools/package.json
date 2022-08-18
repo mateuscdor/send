@@ -1,0 +1,27 @@
+{
+  "name": "mxd-tools",
+  "version": "0.0.8",
+  "description": "\"Just a.. idk\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "directory": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "tools-js",
+    "encrypt",
+    "api",
+    "scraper",
+    "scrapper"
+  ],
+  "author": "Mxdies",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

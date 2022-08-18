@@ -1,0 +1,19 @@
+{
+  "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
+  "namebot": "Senkuu",
+  "botNumber": "6285896181301@s.whatsapp.net",
+  "owner": ["6282279601471@s.whatsapp.net"],
+  "instagram": "https://instagram.com/repannthisori021_",
+  "author": "haryadin",
+  "session": "senku-md",
+  "email": "senkumd@gmail.com",
+  "self": true,
+  "packInfo":{
+    "packname": "Senkuu",
+    "author": "Beta ✓"
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "Asia/Jakarta"
+}
